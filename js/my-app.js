@@ -15,9 +15,9 @@ var myApp = new Framework7({
 		path: '/inicio/',
     	url: 'index.html',
     	name: 'inicio',
-  		}
-		]
-	[
+  		},
+		
+	
 		{
 		path: '/productos/',
     	url: 'productos.html',
