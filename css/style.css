@@ -94,3 +94,17 @@ body{
 .title{
 	color: #000;
 }
+
+#sec-info .tab-link-active{
+	color: #fff !important;
+	background-color: #FF4F00;
+}
+
+#sec-info .tab-link{
+	color: #000;
+}
+
+.carrito{
+	background-color: #FF4f00 !important;
+	color: #fff !important;
+}
