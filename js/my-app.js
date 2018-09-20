@@ -40,6 +40,12 @@ var myApp = new Framework7({
 		path: '/info-productotres/',
     	url: 'info-productotres.html',
     	name: 'info-productotres',
+  		},
+		
+		{
+		path: '/about/',
+    	url: 'about.html',
+    	name: 'about',
   		}
 	]
 });
